@@ -1,2 +1,8 @@
 # fpt-flood
-So read the readme to learn about this.
+So, I made this to see if I could make a FTP-Flooder, i tried a few things with this listed below -
+
+1. FTP Flood - Creating and closing a bunch of connections over and over.
+
+2. FTP Slowloris - So, essentially like a slowloris attack, i tried to force max connections and make it unresponsive // make it so no one could connect.
+
+Nothing worked ;(
